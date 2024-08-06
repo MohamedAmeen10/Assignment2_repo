@@ -20,7 +20,7 @@ print("\nList after Addition of a Tuple: ")
 print(List)
 
 
-List2 = ['A', 'B']
+List2 = ['A', 'Z']
 List.append(List2)
 print("\nList after Addition of a List: ")
 print(List)
